@@ -1,5 +1,7 @@
-module github.com/zlyuancn/ztcp
+module github.com/freetsdb/ftcp
 
-go 1.12
+go 1.17
 
-require github.com/zlyuancn/zassert v0.0.0-20190705030113-c03c9adae9a9
+require github.com/sirupsen/logrus v1.8.1
+
+require golang.org/x/sys v0.0.0-20220422013727-9388b58f7150 // indirect

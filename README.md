@@ -1,8 +1,8 @@
-# ztcp
+# ftcp
 ###### very very very轻量级的socket封装, 不粘包, 心跳检测, 并发安全
 
 ## 获得ztcp
-`go get -u github.com/zlyuancn/ztcp`
+`go get -u github.com/zlyuancn/ftcp`
 
 ## 使用ztcp
 
@@ -11,8 +11,8 @@ package main
 
 import (
     "fmt"
-    "github.com/zlyuancn/ztcp/client"
-    "github.com/zlyuancn/ztcp/server"
+    "github.com/zlyuancn/ftcp/client"
+    "github.com/zlyuancn/ftcp/server"
     "time"
 )
 
