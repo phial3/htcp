@@ -5,7 +5,7 @@ import (
 	"net"
 )
 import (
-	"github.com/freetsdb/ftcp/config"
+	"github.com/freetsdb/htcp/config"
 )
 
 var DataBuffSize = config.DefaultDataBuffSize

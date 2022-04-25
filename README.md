@@ -1,18 +1,18 @@
-# ftcp
-###### very very very轻量级的socket封装, 不粘包, 心跳检测, 并发安全
+# htcp
+###### 轻量级的socket封装, 不粘包, 心跳检测, 并发安全
 
-## 获得ztcp
-`go get -u github.com/zlyuancn/ftcp`
+## 获得 htcp
+`go get -u github.com/freetsdb/htcp`
 
-## 使用ztcp
+## 使用 htcp
 
 ```go
 package main
 
 import (
     "fmt"
-    "github.com/zlyuancn/ftcp/client"
-    "github.com/zlyuancn/ftcp/server"
+    "github.com/freetsdb/htcp/client"
+    "github.com/freetsdb/htcp/server"
     "time"
 )
 

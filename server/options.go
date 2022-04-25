@@ -5,7 +5,7 @@ import (
 	"time"
 )
 import (
-	"github.com/freetsdb/ftcp/client"
+	"github.com/freetsdb/htcp/client"
 )
 
 // 初始客户端容量

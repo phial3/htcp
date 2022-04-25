@@ -14,7 +14,7 @@ var DefaultDataPackageBuffSize = 1024 * 1024 * 64
 var DefaultHeartbeatPrecision time.Duration = 1e9
 
 // 默认信任消息
-var DefaultTrustMsg = []byte("hello ftcp")
+var DefaultTrustMsg = []byte("hello htcp")
 
 // 等待信任时间
 var DefaultWaitTrustTime time.Duration = 5e9

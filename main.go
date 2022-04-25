@@ -6,8 +6,8 @@ import (
 	"time"
 )
 import (
-	"github.com/freetsdb/ftcp/client"
-	"github.com/freetsdb/ftcp/server"
+	"github.com/freetsdb/htcp/client"
+	"github.com/freetsdb/htcp/server"
 )
 
 func main() {

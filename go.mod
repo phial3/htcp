@@ -1,4 +1,4 @@
-module github.com/freetsdb/ftcp
+module github.com/freetsdb/htcp
 
 go 1.17
 

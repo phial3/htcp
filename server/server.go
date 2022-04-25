@@ -8,8 +8,8 @@ import (
 )
 
 import (
-	"github.com/freetsdb/ftcp/client"
-	"github.com/freetsdb/ftcp/config"
+	"github.com/freetsdb/htcp/client"
+	"github.com/freetsdb/htcp/config"
 )
 
 type Server struct {

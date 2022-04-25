@@ -9,8 +9,8 @@ import (
 	"time"
 )
 import (
-	"github.com/freetsdb/ftcp/config"
-	"github.com/freetsdb/ftcp/utils"
+	"github.com/freetsdb/htcp/config"
+	"github.com/freetsdb/htcp/utils"
 )
 
 type Client struct {
